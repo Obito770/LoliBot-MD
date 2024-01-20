@@ -10,9 +10,9 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //---------[ Añada los numeros a ser Propietario/a ]---------
 
-global.owner = [['573183650526', 'ＰＲＯＰＩＥＴＡＲＩＯ', true], ['573026191480'], ['593968585383'], ['5217294888993'], ['5492266466080'], ['595985451858'], ['595992302861'], ['5492266613038'], ['51907913096']]
-global.mods = ['50495745934']
-global.prems = ['972529277314'],
+global.owner = [['201144148194', 'ＰＲＯＰＩＥＴＡＲＩＯ', true], ['201144148194'], ['201144148194'], ['201144148194'], ['201144148194'], ['201144148194'], ['201144148194'], ['201144148194'], ['201144148194']]
+global.mods = ['201144148194']
+global.prems = ['201144148194'],
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
@@ -75,28 +75,28 @@ global.moment = moment
 //------------------------[ Stickers ]-----------------------------
 
 global.packname = '𝙏𝙤𝙢𝙖 𝙩𝙪 𝙨𝙩𝙞𝙘𝙠𝙚𝙧'
-global.author = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.author = '•~ • 𝓨𝓤𝓣𝓐 𝓑𝓞𝓣 َ☆ِٰٰ.❥'
 
 //------------[ Versión | Nombre | cuentas ]------------
 
-global.wm = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.wm = '•~ • 𝓨𝓤𝓣𝓐 𝓑𝓞𝓣 َ☆ِٰٰ.❥'
 global.vs = '1.5.5'
-global.yt = 'https://www.youtube.com/@elrebelde.21'
-global.tiktok = 'tiktok.com/@elrebelde21'
-global.md = 'https://github.com/elrebelde21/LoliBot-MD'
-global.fb = 'https://www.facebook.com/elrebelde21'
-global.face = 'https://www.facebook.com/groups/872989990425789/'
+global.yt = 'https://www.youtube.com/@RYLAND-PUBGMOBILE'
+global.tiktok = 'https://www.tiktok.com/@pfizer.gaming1?_t=8jCSrN6XPnB&_r=1'
+global.md = 'https://chat.whatsapp.com/FZrtNMezysq24t3GPt6oxE'
+global.fb = 'https://www.facebook.com/profile.php?id=100080794104209&mibextid=ZbWKwL'
+global.face = 'https://www.facebook.com/profile.php?id=100080794104209&mibextid=ZbWKwL'
 
-global.nna = 'https://whatsapp.com/channel/0029VaKn22pDJ6GwY61Ftn15' //Update
-global.nn = 'https://chat.whatsapp.com/C6sxsP2ckrr2vxMKclOeCD' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/IlyJBy1fxcw2qAHLSC5YLa' //Grupo del Colaboracion
-global.nnnt2 = 'https://chat.whatsapp.com/K7RzcVdxGqhGP5dCpVENSI' // Grupo COL 2
-global.nnntt = 'https://chat.whatsapp.com/IB9Vs7mZ03BBkH3reCU8Dw' //Grupo COL 3
-global.nnnttt = 'https://chat.whatsapp.com/KlqNmoUcVnsGJxIfATIDrK' //enlace lolibot
-global.nnntttt = 'https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs' //Grupo ayuda sobre el bot
-global.bot = 'Wa.me/51997728085'
-global.asistencia = 'wa.me/573183650526'
+global.nna = 'https://chat.whatsapp.com/FZrtNMezysq24t3GPt6oxE' //Update
+global.nn = 'https://chat.whatsapp.com/FZrtNMezysq24t3GPt6oxE' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/FZrtNMezysq24t3GPt6oxE' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/FZrtNMezysq24t3GPt6oxE' //Grupo del Colaboracion
+global.nnnt2 = 'https://chat.whatsapp.com/FZrtNMezysq24t3GPt6oxE' // Grupo COL 2
+global.nnntt = 'https://chat.whatsapp.com/FZrtNMezysq24t3GPt6oxE' //Grupo COL 3
+global.nnnttt = 'https://chat.whatsapp.com/FZrtNMezysq24t3GPt6oxE' //enlace lolibot
+global.nnntttt = 'https://chat.whatsapp.com/FZrtNMezysq24t3GPt6oxE' //Grupo ayuda sobre el bot
+global.bot = 'Wa.me/966502258433'
+global.asistencia = 'wa.me/201144148194'
 global.redes = [nna, nn, nnn, nnnt, nnnt2, nnntt, nnnttt, yt, md, tiktok]
 
 //-------------------------[ IMAGEN ]------------------------------
@@ -112,22 +112,22 @@ global.img = [imagen, imagen1, imagen2, imagen3, imagen4, imagen5, imagen6]
 
 //------------------------[ Info | Datos ]---------------------------
 
-global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
-global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
-global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
-global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'
-global.waittttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▬*'
-global.rg = '『✅ 𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊𝙎 ✅』\n\n'
+global.wait = '*⌛ انتظر من فضلگ..._ ▬▭▭▭▭▭▭*'
+global.waitt = '*⌛ _انتظر من فضلگ..._ ▬▬▭▭▭*'
+global.waittt = '*⌛ _انتظر من فضلگ..._ ▬▬▬▬▭▭*'
+global.waitttt = '*⌛ _انتظر من فضلگ..._ ▬▬▬▬▬▬▭*'
+global.waittttt = '*⌛ _انتظر من فضلگ..._ ▬▬▬▬▬▬▬*'
+global.rg = '『✅ النــتـائج ✅』\n\n'
 global.resultado = rg
-global.ag = '『⚠️ 𝘼𝘿𝙑𝙀𝙍𝙏𝙀𝙉𝘾𝙄𝘼 ⚠️』\n\n'
+global.ag = '『⚠️ إعـــلان ⚠️』\n\n'
 global.advertencia = ag
-global.iig = '『❕ 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝘾𝙄𝙊𝙉 』\n\n'
+global.iig = '『❕ مـعـلـومـة 』\n\n'
 global.informacion = iig
-global.fg = '『❌ 𝙀𝙍𝙍𝙊𝙍 ❌』\n\n'
+global.fg = '『❌ ايـــرور ❌』\n\n'
 global.fallo = fg
-global.mg = '『❗️ 𝙇𝙊 𝙐𝙎𝙊 𝙈𝘼𝙇❗』\n\n'
+global.mg = '『❗️ لـو اسـتـخـدمتـه❗』\n\n'
 global.mal = mg
-global.eeg = '『📩 𝙍𝙀𝙋𝙊𝙍𝙏𝙀 📩』\n\n'
+global.eeg = '『📩 ريــبـورتـي 📩』\n\n'
 global.envio = eeg
 global.eg = '『💚 𝙀𝙓𝙄𝙏𝙊𝙎 💚』\n\n'
 global.exito = eg
