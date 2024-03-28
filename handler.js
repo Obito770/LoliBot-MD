@@ -944,14 +944,14 @@ if (chat) {
 if (!('isBanned' in chat)) chat.isBanned = false      
 if (!('welcome' in chat)) chat.welcome = true            
 if (!('detect' in chat)) chat.detect = true                  
-if (!('sWelcome' in chat)) chat.sWelcome = ''            
+if (!('sWelcome' in chat)) chat.sWelcome = true          
 if (!('sBye' in chat)) chat.sBye = ''                    
 if (!('sPromote' in chat)) chat.sPromote = ''               
 if (!('sDemote' in chat)) chat.sDemote = ''              
 if (!('delete' in chat)) chat.delete = false                 
 if (!('modohorny' in chat)) chat.modohorny = true       
 if (!('stickers' in chat)) chat.stickers = false               
-if (!('autosticker' in chat)) chat.autosticker = false       
+if (!('autosticker' in chat)) chat.autosticker = true       
 if (!('audios' in chat)) chat.audios = true                
 if (!('antiver' in chat)) chat.antiver = false                
 if (!('antiLink' in chat)) chat.antiLink = false             
@@ -969,7 +969,7 @@ if (!('modoadmin' in chat)) chat.modoadmin = false
 if (!('antitoxic' in chat)) chat.antitoxic = false
 if (!('simi' in chat)) chat.simi = false
 if (!('antiTraba' in chat)) chat.antiTraba = true
-if (!('autolevelup' in chat))  chat.autolevelup = false
+if (!('autolevelup' in chat))  chat.autolevelup = true
 if (!isNumber(chat.expired)) chat.expired = 0
 } else
 //🟢 SI QUIERE CAMBIA ALGUNAS DE ESTA FUNCIÓNE DE (false a true) o (true a false), LOS PUEDE HACER. PERO DEJARLO IGUAL COMO ESTA PARA EVITAR ERRORES
@@ -977,7 +977,7 @@ global.db.data.chats[m.chat] = {
 isBanned: false,
 welcome: true,
 detect: true,
-sWelcome: '',
+sWelcome: true,
 sBye: '',
 sPromote: '',
 sDemote: '', 
@@ -1024,7 +1024,7 @@ autoread: false,
 autoread2: false,
 restrict: false,
 temporal: false,
-antiPrivate: false,
+antiPrivate: true,
 antiCall: true,
 antiSpam: true,
 antispam2: true, 
