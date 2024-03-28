@@ -944,7 +944,7 @@ if (chat) {
 if (!('isBanned' in chat)) chat.isBanned = false      
 if (!('welcome' in chat)) chat.welcome = true            
 if (!('detect' in chat)) chat.detect = true                  
-if (!('sWelcome' in chat)) chat.sWelcome = true          
+if (!('sWelcome' in chat)) chat.sWelcome = 'true'         
 if (!('sBye' in chat)) chat.sBye = ''                    
 if (!('sPromote' in chat)) chat.sPromote = ''               
 if (!('sDemote' in chat)) chat.sDemote = ''              
@@ -977,7 +977,7 @@ global.db.data.chats[m.chat] = {
 isBanned: false,
 welcome: true,
 detect: true,
-sWelcome: true,
+sWelcome: 'true',
 sBye: '',
 sPromote: '',
 sDemote: '', 
